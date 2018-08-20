@@ -1,1 +1,3 @@
-def position_taken(board, position)
+def position_taken(board, index)
+  
+end 
